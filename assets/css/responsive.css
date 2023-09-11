@@ -1,0 +1,1082 @@
+@media only screen and (min-width: 1441px) and (max-width: 1600px) {
+	.quote--message{
+		padding: 20px;
+	}
+	.quote--message p {
+	    line-height: 50px;
+	    margin-bottom: 0;
+	}
+ }
+
+@media only screen and (min-width: 1361px) and (max-width: 1440px) { 
+	.quote--message p {
+	    font-size: 28px;
+	    line-height: 40px;
+	}
+	.quote--message{
+		padding: 20px;
+	}
+	.hero-content--wrapper img {
+	    width: 390px;
+	}
+	.section-header h3.section-header__title::after {
+	    right: 222px;
+	}
+	.auth-wrapper{
+		width: 49%;
+	}
+	.not-found-area h3 {
+	    font-size: 40px;
+	}
+	.not-found-area h1{
+		font-size: 60px;
+	}
+	.schedule-form{
+		width: 70%;
+	}
+	#spreadsheets-guidance .section-header h3.section-header__title::after {
+	    right: 185px;
+	}
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1360px) { 
+	.hero-content--wrapper img {
+	    width: 300px;
+	}
+	.quote--message p {
+	    font-size: 26px;
+	    line-height: 40px;
+	}
+	.quote--message{
+		padding: 20px;
+		top: 150px;
+	}
+	.hero--quote {
+	    margin-top: 30px;
+	    font-size: 30px;
+	}
+	.section-header h3.section-header__title::after {
+	    right: 222px;
+	}
+	.auth-wrapper{
+		width: 49%;
+	}
+	.not-found-area h3 {
+	    font-size: 35px;
+	}
+	.not-found-area h1{
+		font-size: 50px;
+	}
+	.schedule-form{
+		width: 70%;
+	}
+	#spreadsheets-guidance .section-header h3.section-header__title::after {
+	    right: 150px;
+	}
+ }
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+	.quote--message p {
+		font-size: 21px;
+		line-height: 30px;
+	}
+	.quote--message{
+		padding: 20px;
+		top: 150px;
+		right: -235px;
+	}
+	.addon-submit--btn{
+		padding: 5px 20px;
+	}
+	.auth-wrapper{
+		width: 55%;
+	}
+	.not-found-area h3 {
+	    font-size: 35px;
+	}
+	.not-found-area h1{
+		font-size: 50px;
+	}
+	.auth-verifcation{
+		width:67%;
+	}
+	.schedule-form{
+		width: 88%;
+	}
+	#spreadsheets-guidance .section-header h3.section-header__title::after {
+	    right: 100px;
+	}
+	
+}
+
+@media only screen and (max-width:1199px){
+	h1.hero--title{
+		font-size: 50px;
+	}
+	#spreadsheets-guidance h1.hero--title{
+		line-height: 65px;
+	}
+	.hero-content--wrapper img {
+	    width: 240px;
+	}
+	.hero--quote p,
+	.hero--quote strong {
+		font-size: 26px;
+	}
+	.hero--quote{
+		margin-top: 30px;
+	}
+	.investment--wrapper h2{
+		font-size: 28px;
+	}
+	.section-header h3.section-header__title,
+	.footer--header h3{
+		font-size: 35px;
+	}
+	.section-header h3.section-header__title::after {
+	    right: 180px;
+	}
+	.section-header p.section-header__desc{
+		width: 66%;
+	}
+	.quote--message p {
+		margin-bottom: 0;
+	}
+	.offer_card{
+		width: 100%;
+	}
+	#contact-lawyer .hero--quote {
+    	padding: 0px 70px;
+	}
+	.hero--search input[type="text"] {
+	    padding: 13px 30px;
+	}
+	.lawyer--header h3{
+		font-size: 35px;
+	}
+	.real-world--form{
+		width: 90%;
+	}
+	.real-world--header{
+		width: 65%;
+	}
+	.real-world.py-5{
+		padding-top: 6rem !important;
+	}
+	#motivation-guidance .motivation--hero .hero-content--wrapper p{
+		width: 100%;
+	}
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+	.hero--quote{
+		padding: 0 60px;
+	}
+	.section-header p.section-header__desc {
+	    width: 91%;
+	}
+	.section-header h3.section-header__title::after {
+	    right: 50px;
+	}
+	.quote--message p {
+		font-size: 20px;
+		line-height: 30px;
+	}
+	.quote--message {
+	    top: 123px;
+	    right: -200px;
+	    max-width: 320px;
+	    width: 100%;
+	    padding: 20px;
+	}
+	.footer--header p{
+		width: 66%;
+	}
+	h1.hero--title{
+		font-size: 42px;
+		line-height: 55px;
+	}
+	h1.hero--title::after {
+	    width: 210px;
+	    bottom: -100px;
+	}
+	.content--wrapper, .footer.footer--primary {
+	    padding-left: 90px;
+	}
+	.auth,
+	.login{
+		padding-left: 0;
+	}
+	#home--main .content--wrapper, #home--main .footer.footer--primary {
+	    padding-left: 0px;
+	}
+	.auth-wrapper{
+		width: 75%;
+	}
+	.not-found-area h3{
+		font-size: 28px;
+	}
+	.not-found-area h1 {
+	    font-size: 35px;
+	    margin-bottom: 15px;
+	}
+	.button-not-found {
+		margin-top: 15px;
+	}
+	.auth-verifcation{
+		width:90%;
+	}
+	.schedule-form{
+		width: 100%;
+		padding: 28px;
+	}
+	.motivation--hero .hero-content--wrapper p {
+	    width: 90%;
+	}
+	#spreadsheets-guidance .section-header h3.section-header__title::after {
+	    right: 10px;
+	}
+
+}
+
+@media only screen and (max-width:991px){
+	.footer-bar--col__1,
+	.footer-bar {
+	    flex-direction: column;
+	}
+	.footer-bar--col__1 {
+		gap: 18px;
+		text-align: center;
+	}
+	.footer__social{
+		margin-top: 10px;
+	}
+	#contact-lawyer .hero--quote {
+	    padding: 0px 40px;
+	    margin-top: 15px;
+	}
+	.sidebar{
+		width: 90px;
+		padding: 18px;
+	}
+	#contact-lawyer .hero--quote {
+	    padding: 0px 0px;
+	}
+	.addons-list--main{
+		width: 100%;
+	}
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+	.hero--quote{
+		padding: 0;
+	}
+	.section-header h3.section-header__title::after {
+	    right: 0px;
+	}
+	.container{
+		max-width: 575px !important;
+	}
+	.quote--message p {
+		font-size: 20px;
+		line-height: 30px;
+	}
+	.quote--message {
+	    top: 123px;
+	    right: -160px;
+	    max-width: 320px;
+	    width: 100%;
+	    padding: 20px;
+	}
+	.footer--header p {
+	    width: 82%;
+	}
+	.content--wrapper, 
+	.footer.footer--primary {
+	    padding-left: 90px;
+	}
+	.home--main .content--wrapper, 
+	.home--main .footer.footer--primary {
+	    padding-left: 0px;
+	}
+	h1.hero--title {
+		font-size: 42px;
+		line-height: 55px;
+	}
+	h1.hero--title::after {
+	    height: 45px;
+	    width: 215px;
+	    bottom: -50px;
+	}
+	h1.hero--title::after {
+	    bottom: -65px;
+	}
+	.checklist h1.hero--title::after {
+	    bottom: -65px;
+	}
+	.footer--header h3 span::after {
+	    width: 180px;
+	    top: -5px;
+	}
+	.membership h1.hero--title::after {
+	    height: 45px;
+	    width: 215px;
+	    bottom: -62px;
+	}
+	.membership .section-header__desc {
+		margin-bottom: 40px !important;
+	}
+	
+}
+
+@media only screen and (max-width: 767px) {
+	.hero-content--wrapper img {
+	    width: 190px;
+	}
+	.hero--quote p, .hero--quote strong {
+	    font-size: 22px;
+	}
+	.investment--wrapper h2 {
+		font-size: 26px;
+	}
+	.section-header h3.section-header__title,
+	.footer--header h3 {
+	    font-size: 30px;
+	    line-height: 40px;
+	}
+	.section-header p.section-header__desc {
+	    width: 100%;
+	}
+	.hero-content--wrapper {
+	    height: 85vh;
+	}
+	.quote--col {
+	    width: 100%;
+	}
+	.quote-main{
+		padding-left: calc((100% - 575px) / 2 + 12px);
+		padding-right: calc((100% - 575px) / 2 + 12px);
+	}
+	.quote--message{
+		max-width: 100%;
+		width: 100%;
+		position: relative;
+		top: 30px;
+		left: 0;
+	}
+	.faq__wrapper {
+	    width: 100%;
+	}
+	a.offer__joinBtn{
+		padding:10px 60px;
+	}
+	.sidebar {
+	    width: 280px;
+	    padding: 24px !important;
+	    left: -100%;
+	    transition: 0.3s;
+	}
+	.sidebar--overlay{
+		display: block !important;
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		background-color: rgba(0, 0, 0, 0.5);
+		z-index: 1031;
+		opacity: 0;
+		visibility: hidden;
+		transition: 0.5s;
+	}
+	.sidebar--overlay.show{
+		opacity: 1;
+		visibility: visible;
+		transition: 0.5s;
+	}
+	.sidebar.show{
+		left: 0;
+		transition: 0.3s;
+	}
+	.sidebar .sidebar-close{
+		position: absolute;
+		top: 10px;
+		right: 10px;
+		display: block;
+	}
+	.sidebar .item-wrapper .item a p,
+	.sidebar-text{
+		opacity: 1;
+		visibility: visible;
+	}
+	.sidebar-logo-area{
+		padding: 0 !important;
+	}
+	.sidebar .item-wrapper .item a {
+		padding-left:0;
+	}
+	.dark-mood p {
+		margin-left: 0;
+	}
+
+	.content--wrapper, 
+	.footer.footer--primary {
+	    padding-left: 0;
+	}
+	.addon-submit--btn{
+		padding: 6px 20px;
+	}
+	a.offer__joinBtn.course-membership--btn {
+		padding: 10px 25px;
+	}
+	.membership .service--content_wrapper .row [class*="col-"]{
+		margin-top: 20px;
+	}
+	.auth-wrapper{
+		width: 100%;
+	}
+	.not-found-area h3{
+		font-size: 28px;
+	}
+	.not-found-area h1 {
+	    font-size: 35px;
+	    margin-bottom: 15px;
+	}
+	.button-not-found {
+		margin-top: 15px;
+	}
+	.auth-verifcation{
+		width:100%;
+	}
+	.real-world--form {
+	    width: 100%;
+	    margin-top: 25px;
+	}
+	.real-world--header {
+	    width: 92%;
+	    padding: 20px;
+	}
+	.schedule-form{
+		width: 100%;
+		padding: 28px;
+		border-radius: 20px;
+	}
+	.schedule-form--row{
+		display: block;
+	}
+	.schedule-calendar--col,
+	.schedule-time--col{
+		width: 100%;
+	}
+	.schedule-time--col{
+		margin-top: 22px;
+	}
+	.schedule-form--header ul li{
+		width: 33.33%;
+	}
+	.schedule-form--header ul li h4 {
+	    font-size: 28px;
+	    letter-spacing: 4.8px;
+	    text-align: center;
+	    margin-bottom: 0;
+	}
+	.schedule-form--header ul li a{
+		padding: 10px;
+		font-size: 16px;
+	}
+	a.motivation--book p{
+		font-size: 18px;
+	}
+	.guideline--multiple .hero-main.motivation--hero{
+		padding: 80px 0;
+	}
+	.guideline--multiple .motivation--book{
+		display: block;
+		text-align: center;
+	}
+}
+
+@media only screen and (min-width:480px) and (max-width:575px){
+	.auth--header h3{
+		font-size: 27px;
+	}
+	.real-world--header {
+	    width: 100%;
+	    padding: 10px;
+	}
+	.schedule-form--header ul li a {
+	    font-size: 14px;
+	    gap: 5px;
+	}
+	#spreadsheets-guidance h1.hero--title {
+	    line-height: 49px;
+	}
+	#spreadsheets-guidance h1.hero--title::after {
+		bottom: -100px;
+	}
+}
+
+@media only screen and (max-width:575px){
+	.hero--quote {
+	    padding: 0;
+	}
+	.hero-content--wrapper img {
+	    width: 180px;
+	}
+	.investment--wrapper {
+	    padding: 20px;
+	}
+	.investment--wrapper h2 {
+	    font-size: 24px;
+	}
+	.section-header h3.section-header__title, .footer--header h3 {
+	    font-size: 28px;
+	    line-height: 35px;
+	}
+	.section-header h3.section-header__title::after {
+	    right: 0px;
+	    top: -26px;
+	}
+	.service--appStoreList {
+		flex-wrap: wrap;
+	}
+	.offer_card {
+		padding: 20px;
+	}
+	a.offer__joinBtn {
+		padding: 10px 50px;
+	}
+	.quote--message p {
+	    font-size: 17px;
+	    line-height: 28px;
+	}
+	.quote-main{
+		padding-left: 12px;
+		padding-right: 12px;
+	}
+	.quote--message{
+		padding: 20px;
+	}
+	.footer--header h3 span::after {
+		left: -10px;
+		top: -10px;
+		width: 185px;
+		height: 185px;
+	}
+	.footer--header p{
+		width: 100%;
+	}
+	.service--content_wrapper {
+	    padding: 50px 0px;
+	}
+	.hero-content--wrapper {
+		height: 78vh;
+		padding-top: 64px;
+	}
+	.section-header p.section-header__desc{
+		margin-bottom: 50px;
+	}
+	.faq__wrapper {
+		margin-top: 40px;
+	}
+	.faq-accordion button[aria-expanded='true']+.faq-accordion-content {
+	    max-height: 11em;
+	}
+	.faq-accordion .faq-accordion-content p{
+		margin-top: 0;
+	}
+	h1.hero--title {
+	    font-size: 35px;
+	    line-height: 44px;
+	}
+	h1.hero--title::after {
+		width: 190px;
+		bottom: -86px;
+	}
+	#contact-list h1.hero--title::after,
+	.checklist h1.hero--title::after,
+	#contact-lawyer h1.hero--title::after,
+	#motivation-guidance h1.hero--title::after {
+		bottom: -100px;
+	}
+	.lawyer--header h3 {
+	    font-size: 28px;
+	}
+	li.lawyer-info-list--item{
+		font-size: 16px;
+	}
+	.hero--search input[type="text"] {
+	    padding: 9px 26px;
+	}
+	#contact-lawyer .service--content_wrapper {
+	    padding: 0px 0px;
+	}
+	#contact-lawyer .about.my-5{
+		margin-top: 1rem !important;
+	}
+	.addons-list--item label h4{
+		font-size: 20px;
+	}
+	.form-footer{
+		display: block;
+	}
+	.addon-submit--btn {
+	    padding: 15px 20px;
+	    width: 100%;
+	    margin-top: 20px;
+	}
+	a.offer__joinBtn.course-membership--btn {
+	    padding: 13px 10px;
+	    font-size: 14px;
+	}
+	.quick-link.py-5{
+		padding-bottom:  0 !important;
+	}
+	.membership h1.hero--title::after {
+	    width: 190px;
+	    bottom: -100px;
+	}
+	ul.auth-btn-list {
+	    margin-top: 10px !important;
+	}
+	.button-not-found{
+		padding: 10px 15px;
+	}
+	.schedule-time--col label {
+		font-size: 16px;
+	}
+	.schedule-form--btn button {
+		font-size: 20px;
+	}
+	.hero-main.motivation--hero{
+		padding: 70px 0;
+	}
+	.book-info{
+		width: 100%;
+	}
+
+	#spreadsheets-guidance .guideline--filter{
+		width: 100%;
+	}
+	#spreadsheets-guidance ul.guideline--filter li{
+		display: block !important;
+		margin-top: 10px;
+	}
+	#spreadsheets-guidance .calendar--detail{
+		width: 100%;
+	}
+}
+
+@media only screen and (min-width:375px) and (max-width:479px){
+	.hero-content--wrapper img {
+	    width: 160px;
+	}
+	.hero--quote p, .hero--quote strong {
+		font-size: 18px;
+	}
+	.hero--quote p{
+		margin-bottom: 0;
+	}
+	a.hero--signup-btn{
+		margin-top: 135px;
+	}
+	.hero--quote::after {
+	    bottom: -176px;
+	}
+	.hero-content--wrapper {
+	    height: 85vh;
+	    padding-top: 72px;
+	}
+	.investment--wrapper {
+	    padding: 18px;
+	}
+	.investment--wrapper p {
+	    font-size: 16px;
+	    margin-bottom: 0.7rem;
+	}
+	.investment--wrapper h2 {
+	    font-size: 18px;
+	}
+	.section-header h3.section-header__title, .footer--header h3 {
+	    font-size: 22px;
+	    line-height: 30px;
+	}
+	.section-header p.section-header__desc,
+	ul.offer__list li p {
+	    font-size: 16px;
+	    line-height: 27px;
+	}
+	.footer--header p{
+		font-size: 16px;
+	}
+	ul.offer__list li p{
+		line-height: 24px;
+	}
+	a.offer__joinBtn {
+		padding: 10px 30px;
+	}
+	.footer--header h3 span::after {
+	    top: -4px;
+	    width: 130px;
+	}
+	.section-header h3.section-header__title::after {
+		height: 45px;
+		width: 45px;
+	    right: 0px;
+	    top: -24px;
+	}
+	.footer__end  p{
+		font-size: 16px;
+		line-height: 27px;
+	}
+	.faq-accordion button .faq-accordion-title{
+		font-size: 16px;
+	}
+	.service--appStoreList .store--box{
+		max-width: 47%;
+		width: 100%;
+	}
+	.footer--faq {
+	    padding-bottom: 60px;
+	}
+	.footer--header h3{
+		margin-top: 0;
+	}
+	.appStore__rating ul li {
+	    font-size: 15px;
+	}
+	.addons-list--item label h4 {
+	    font-size: 18px;
+	    line-height: 26px;
+	}
+	.checklist a.offer__joinBtn.course-membership--btn,
+	.membership a.offer__joinBtn.course-membership--btn {
+		padding: 13px 10px;
+		font-size: 15px;
+		max-width: 227px;
+		width: 100%;
+	}
+	.membership h1.hero--title {
+	    font-size: 30px;
+	    line-height: 44px;
+	}
+	.auth--header h3{
+		font-size: 24px;
+	}
+	.login .auth--header h3{
+		font-size: 23px;
+	}
+	.not-found-area h3{
+		font-size: 24px;
+	}
+	.not-found-area h1 {
+	    font-size: 30px;
+	}
+	.real-world--header h2 {
+		font-size: 20px;
+	}
+	.real-world--header{
+		padding: 0;
+	}
+	.real-world--form label {
+		font-size: 13px;
+	}
+	.schedule-form--header ul{
+		display: block;
+	}
+	.schedule-form--header ul li {
+	    width: 100%;
+	}
+	.schedule-form--header ul li a {
+	    justify-content: center;
+	    gap: 0;
+	}
+	.schedule-form--header ul li h4 {
+		margin: 15px 0;
+	}
+	.navbar {
+		padding: 0;
+		height: 55px;
+	}
+	.navbar ul{
+		margin-bottom: 0 !important;
+	}
+	.navbar .header--nav{
+		margin-top: -7px;
+	}
+	.hero-main {
+		padding: 95px 0;
+	}
+	#contact-lawyer .hero-main,
+	#contact-list .hero-main,
+	.checklist .hero-main,
+	.membership .hero-main,
+	.home--main .hero-main {
+		padding: 50px 0;
+	}
+	.hero-main.motivation--hero {
+	    padding: 210px 0 170px;
+	}
+	.meeting .hero-main.motivation--hero {
+	    padding: 260px 0 250px;
+	}
+	.guideline--multiple .hero-main.motivation--hero {
+	    padding: 220px 0;
+	}
+	.sign-step-one .auth--header h3{
+		font-size: 19px;
+	}
+	.login.content--wrapper{
+		padding: 100px 0;
+	}
+	.forget--step--one .login.content--wrapper,
+	.forget--pass .login.content--wrapper,
+	.login--step--one .login.content--wrapper,
+	.pass--reset .login.content--wrapper,
+	.sign-step-one .login.content--wrapper {
+		padding: 0px;
+	}
+	#spreadsheets-guidance h1.hero--title {
+	    font-size: 30px;
+	    line-height: 44px;
+	}
+	#spreadsheets-guidance h1.hero--title::after {
+	    bottom: -100px;
+	}
+	#spreadsheets-guidance .hero-main {
+	    padding: 0px;
+	}
+	#spreadsheets-guidance .hero-main.guideline--hero .hero-content--wrapper {
+	    padding: 130px 0px;
+	}
+}
+
+@media only screen and (min-width:320px) and (max-width:374px){
+	.hero-content--wrapper img {
+	    width: 130px;
+	}
+	.hero--quote p, .hero--quote strong {
+	    font-size: 16px;
+	    margin-bottom: 0;
+	}
+	.hero-content--wrapper {
+	    height: 85vh;
+	    padding-top: 77px;
+	}
+	.hero--quote::after {
+		bottom: -176px;
+	}
+	a.hero--signup-btn{
+		margin-top: 135px;
+	}
+	.investment--wrapper h2 {
+		font-size: 16px;
+	}
+	.investment--wrapper p {
+	    font-size: 14px;
+	    margin-bottom: 0.5rem;
+	}
+	.investment--wrapper {
+	    padding: 10px;
+	}
+	.section-header h3.section-header__title, .footer--header h3 {
+	    font-size: 20px;
+	    line-height: 27px;
+	}
+	.section-header h3.section-header__title::after {
+	    right: -9px;
+	    top: -20px;
+	    height: 40px;
+	    width: 40px;
+	}
+	.footer--header h3 span::after {
+	    top: -5px;
+	    width: 110px;
+	}
+	.section-header p.section-header__desc{
+		font-size:16px;
+		line-height: 26px;
+	}
+	ul.offer__list li p,
+	.footer--header p,
+	.faq-accordion button .faq-accordion-title {
+	    font-size: 16px;
+	    line-height: 26px;
+	}
+	a.offer__joinBtn {
+	    padding: 10px 20px;
+	}
+	.footer--faq {
+	    padding-bottom: 60px;
+	}
+	.footer__short-brief p {
+	    font-size: 16px;
+	    line-height: 28px;
+	}
+	.service--appStoreList .store--box{
+		max-width: 47%;
+		width: 100%;
+	}
+	.appStore__rating ul li {
+		font-size: 12px;
+	}
+	h1.hero--title::after {
+	    width: 156px;
+	    bottom: -84px;
+	}
+	p, span {
+	    font-size: 16px !important;
+	}
+	.contact-lawyer{
+		padding-top: 2rem;
+	}
+	h1.hero--title {
+	    font-size: 30px;
+	}
+	h1.hero--title span{
+		font-size: 30px !important;
+	}
+	.addons-list--item label h4 {
+	    font-size: 17px;
+	    line-height: 23px;
+	}
+	.checklist a.offer__joinBtn.course-membership--btn {
+		padding: 2px 10px;
+		font-size: 15px;
+	}
+	.membership a.offer__joinBtn.course-membership--btn{
+		max-width: 214px;
+		width: 100%;
+	}
+	.membership h1.hero--title {
+	    font-size: 23px;
+	    line-height: 27px;
+	}
+	.membership h1.hero--title span{
+		font-size: 23px !important;
+	}
+	.auth--header h3{
+		font-size: 21px;
+	}
+	.sign-step-one .auth--header h3{
+		font-size: 19px;
+	} 
+	.real-world--header h2 {
+		font-size: 20px;
+	}
+	.real-world--header{
+		padding: 0;
+		height: 65px;
+	}
+	.real-world--header img{
+		width: 42px;
+	}
+	.real-world--form label {
+		font-size: 12px;
+	}
+	.login .form-control,
+	.auth--btn{
+		width: 90%;
+		margin:0 auto;
+	}
+	.schedule-form--header ul{
+		display: block;
+	}
+	.schedule-form--header ul li {
+	    width: 100%;
+	}
+	.schedule-form--header ul li a {
+	    justify-content: center;
+	    gap: 0;
+	}
+	.schedule-form--header ul li h4 {
+		margin: 15px 0;
+	}
+	.navbar {
+		padding: 0;
+		height: 55px;
+	}
+	.navbar ul{
+		margin-bottom: 0 !important;
+	}
+	.navbar .header--nav{
+		margin-top: -7px;
+	}
+	.hero-main {
+		padding: 95px 0;
+	}
+	#contact-lawyer .hero-main {
+		padding: 18px 0;
+	}
+	#contact-list .hero-main,
+	.checklist .hero-main{
+		padding: 10px 0;
+	}
+	.membership .hero-main,
+	.home--main .hero-main{
+		padding: 50px 0;
+	}
+	.hero-main.motivation--hero {
+	    padding: 130px 0 130px !important;
+	}
+	.guideline--multiple .hero-main.motivation--hero {
+	    padding: 204px 0 185px !important;
+	}
+	.login.content--wrapper{
+		padding: 120px 0;
+	}
+	#spreadsheets-guidance h1.hero--title {
+	    font-size: 30px;
+	    line-height: 37px;
+	}
+	#spreadsheets-guidance h1.hero--title::after {
+	    bottom: -100px;
+	}
+	#spreadsheets-guidance .hero-main {
+	    padding: 0px;
+	}
+	#spreadsheets-guidance .hero-main.guideline--hero .hero-content--wrapper {
+	    padding: 115px 0px;
+	}
+	.forget--step--one .login.content--wrapper,
+	.forget--pass .login.content--wrapper,
+	.login--step--one .login.content--wrapper,
+	.pass--reset .login.content--wrapper,
+	.sign-step-one .login.content--wrapper{
+		padding: 0px;
+	}
+	.meeting .hero-main.motivation--hero {
+	    padding: 260px 0 250px !important;
+	}
+}
+
+@media only screen and (max-width:320.98px){
+	.hero-main {
+		padding: 90px 0 !important;
+	}
+	.hero-main.motivation--hero {
+	    padding: 315px 0 280px !important;
+	}
+	.sign-step-one .login.content--wrapper{
+		padding: 50px 0;
+	}
+	.sign-step-one .auth--header h3 {
+	    font-size: 17px;
+	}
+	.login.content--wrapper{
+		padding: 230px 0;
+	}
+	.not-found.content--wrapper{
+		padding: 60px 0;
+	}
+	.forget--step--one .login.content--wrapper,
+	.forget--pass .login.content--wrapper,
+	.login--step--one .login.content--wrapper,
+	.pass--reset .login.content--wrapper,
+	.sign-step-one .login.content--wrapper{
+		padding: 60px 0;
+	}
+	.guideline--multiple .hero-main.motivation--hero {
+	    padding: 330px 0 330px !important;
+	}
+}

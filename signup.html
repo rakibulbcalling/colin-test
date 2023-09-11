@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="assets/images/logo/logo.png" type="image/x-icon">
+    <title>Signup || Colinhart Web Application</title>
+    <!-- Theme Core CSS -->
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/responsive.css">
+    <link rel="stylesheet" href="assets/fonts/fonts.css">
+    <!-- Theme Vendor CSS -->
+    <link rel="stylesheet" href="assets/vendor/bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" href="assets/plugins/boxicons/css/boxicons.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap">
+</head>
+<body id="login">
+    <!-- Main content :: Start -->
+    <main class="login content--wrapper">
+        <div class="container">
+            <div class="auth auth--login">
+                <div class="auth-wrapper auth-wrapper--login">
+                    <div class="auth--header">
+                        <a href="/" class="d-block mb-4">
+                            <img src="assets/images/logo/logo.png" alt="site primary logo, main logo" class="img-fluid">
+                        </a>
+                        <h3>Create your account</h3>
+                        <p>Please note that phone verification is required for signup. Your number will only be used to verify your identity for security purposes.</p>
+                    </div>
+                    <div class="login-form--wrapper">
+                        <form action="" class="login--form">
+                            <input type="email" name="AuthEmailAddress" id="loginEmail" class="form-control py-2 rounded-1" placeholder="Email Address" required>
+                            <input type="tel" name="AuthPhoneNumber" id="loginPhone" class="form-control py-2 rounded-1" placeholder="+1 123 456 7890" required>
+                            <div class="auth--password w-100">
+                                <input id="password-field" type="password" class="form-control py-2 rounded-1" name="password" placeholder="Password">
+                                <span toggle="#password-field" class="bi bi-eye-slash-fill bi-eye-fill field-icon toggle-password"></span>
+                            </div>
+                            <button type="submit" class="auth--btn">Continue <i class='bx bx-chevron-right' ></i></button>
+                        </form>
+                        <p>Already have an Account? <a href="login.html"> Signin Now</a></p>
+                    </div>
+                    <p class="auth--divider"><span>OR</span></p>
+                    <div class="login--sso">
+                        <ul class="p-0 m-0 sso-list">
+                            <li class="d-block sso-list--item"><a href="#" class="m-0 sso-list--link"><img src="assets/images/sso-icons/sso-microsoft.png" alt="Signup sso-microsoft"> Continue with Microsoft Account </a></li>
+                            <li class="d-block sso-list--item"><a href="#" class="m-0 sso-list--link"><img src="assets/images/sso-icons/sso-google.png" alt="Signup sso-google"> Continue with Google </a></li>
+                            <li class="d-block sso-list--item"><a href="#" class="m-0 sso-list--link"><img src="assets/images/sso-icons/sso-apple.png" alt="Signup sso-apple"> Continue with Apple </a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="auth--footer">
+                    <ul class="p-0 m-0">
+                        <li><a href="term.html">Terms of use</a></li>
+                        <li><a href="privacy.html">Privacy policy</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </main>
+    <!-- Main content :: End -->
+
+    <!-- Theme Scripts -->
+    <script src="assets/plugins/jQuery/jquery-3.6.3.slim.js"></script>
+    <script src="assets/vendor/bootstrap/js/bootstrap.js"></script>
+    <script src="assets/js/main.js"></script>
+
+</body>
+</html>
